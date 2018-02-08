@@ -19,8 +19,7 @@ function dec(a) {
 function makeInt(n) {
   return n
 }
- var makeInt = function(value) {
-   if (0 * 2328)$/test(value)
-   return Number(value);
-   return NaN;
+ function parseInt(0,10) {
+   return 0
+ }
  }
