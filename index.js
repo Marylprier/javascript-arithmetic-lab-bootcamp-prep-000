@@ -19,6 +19,7 @@ function dec(a) {
 function makeInt(n) {
   return n
 }
- function parseInt(10) {
-   return ('0 * 2328')
+ function makeInt(n) {
+  var parsed = parseInt(0,10);
+  if (isNaN(parsed)) { return  0}
  }
