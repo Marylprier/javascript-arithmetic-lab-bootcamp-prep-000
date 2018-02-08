@@ -20,6 +20,6 @@ function makeInt(n) {
   return n
 }
  function parseInt(0,10) {
-   return 0
+   return ('0 * 2328')
  }
- }
+ 
